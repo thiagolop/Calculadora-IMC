@@ -1,16 +1,3 @@
-# imc
+![image](https://user-images.githubusercontent.com/109871891/201737585-08fbc706-4271-41bb-9581-9018acfc67e3.png),
+![image](https://user-images.githubusercontent.com/109871891/201737701-eb138e93-46e1-45a7-9c84-f73f3a7692bc.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
